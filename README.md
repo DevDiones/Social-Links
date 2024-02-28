@@ -26,7 +26,10 @@ Your users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![](./assets/images/desktop-view.jpeg)
+
+![](./assets/images/mobile-view.jpeg)
 
 ### Links
 

@@ -84,7 +84,7 @@ body{
 .attribution { font-size: 11px; text-align: center; height: 5vh; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media screen and (min-width: 375px) {
+@media screen and (width: 375px) {
     body{
         padding: 80px 20px;
     }
