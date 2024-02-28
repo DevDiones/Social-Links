@@ -23,8 +23,8 @@
 
 body{
     background-color: var(--Off-Black);
-   
 }
+
 .wrapper{
     height: 95vh;
     display: flex;
@@ -81,8 +81,11 @@ body{
     }
 }
 
+.attribution { font-size: 11px; text-align: center; height: 5vh; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
 @media screen and (min-width: 375px) {
     body{
-        padding: 0px 20px;
+        padding: 80px 20px;
     }
 }
